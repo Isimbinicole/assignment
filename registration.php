@@ -9,7 +9,7 @@
 <body class="bg-light">
     <div class="container mt-5">
         <h1 class="text-center mb-4">RP MUSANZE COLLEGE</h1>
-        <form action="submit_registration.php" method="post" class="p-4 bg-white shadow rounded">
+        <form action="login.php" method="post" class="p-4 bg-white shadow rounded">
             <div class="mb-3">
                 <label for="names" class="form-label">Names:</label>
                 <input type="text" id="names" name="names" class="form-control" required>

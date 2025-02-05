@@ -11,7 +11,7 @@
     <div class="container mt-5">
         <h1 class="text-center">Login</h1>
 
-        <form method="POST" action="handle_login_user.php">
+        <form method="POST" action="home.php">
             <div class="mb-3">
                 <label for="email" class="form-label">Email</label>
                 <input type="email" name="email" class="form-control" required>
